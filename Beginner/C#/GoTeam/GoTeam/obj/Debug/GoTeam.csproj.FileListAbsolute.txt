@@ -1,0 +1,10 @@
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\bin\Debug\GoTeam.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\bin\Debug\GoTeam.exe
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\bin\Debug\GoTeam.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.exe
+C:\Users\Sotonte Bob-manuel\source\repos\GoTeam\GoTeam\obj\Debug\GoTeam.pdb

@@ -1,0 +1,96 @@
+
+header, nav, main, footer { display: block; } 
+* {box-sizing: border-box; }
+body { background-color: #eaeaea;
+		color: #333b39;
+       font-family: Verdana, Arial, sans-serif;
+	   background-image: url(field.jpg);
+	   margin-right: 7em;
+	   margin-left: 7em;
+}
+#wrapper {background-color: #eaeaea;
+		   color: #FFFFFF;
+		  margin: 0px;
+}
+h1 	{background-repeat: no-repeat;
+	 color: #4cb043;
+     background-color: #FFFFFF;
+	 height: 85px;
+	 font-family: Georgia, "Times New Roman", serif;
+	 font-size: 3em;
+     padding-right: 30px;
+	 padding-top: 30px;
+	 padding-bottom: 30px;
+	 text-shadow: 3px 3px 3px #90745D;
+	 margin-bottom: 5px;
+	 text-align: Right;
+}
+nav {position:fixed;
+	  font-weight: bold; 
+	  background-color: #424949;
+	  padding-right: 2em;
+	  position: relative;
+	  text-align: left;
+	  letter-spacing: 0.1em;
+}
+nav ul { list-style-type: none;
+		margin: 0px;
+}
+nav li { padding: 10px;
+       font-weight: bold;
+	   display:inline-block;
+	   border-color: #FFFFFF;
+		border: 1px;
+}
+nav a { text-decoration: none;
+		display: block;
+ }
+nav a:link { color: #FFFFFF;}
+nav a:visited{color: #eaeaea;}
+nav a:hover {background-color: #000000;
+			padding:15px;
+}
+main { background-color: #FFFFFF;
+		color: #424949;
+          padding: 1px 20px 20px 20px;   
+		  min-height: 300px;
+}
+main img { float: right;
+            border-radius: 7px;
+}
+#example1 {background-image: url(freelogo.jpeg);
+			background-position: left top;
+			background-repeat: no-repeat, repeat;
+}
+footer { background-color: #424949;
+		color: #FFFFFF;
+	   margin-top: 5px;
+       padding: 20px;
+       text-align: center;
+	   font-size: small;
+	   font-style: italic;
+}
+div.gallery {
+  margin: 30px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  border-radius: 7px
+}
+div.gallery:hover {
+  border: 1px solid #777;
+  color: #FFFFFF;
+  background-color: #000000;
+  padding: 20px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.flexbox  {Font-weight: bold;
+			display: flex;
+			justify-content: center;

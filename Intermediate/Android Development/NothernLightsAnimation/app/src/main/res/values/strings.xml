@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nothern Lights Animation</string>
+    <string name="imgDescription">Nothern Lights Image</string>
+    <string name="btnStart">Start Frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+</resources>

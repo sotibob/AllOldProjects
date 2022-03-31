@@ -1,0 +1,10 @@
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\bin\Debug\Canculator.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\bin\Debug\Canculator.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\bin\Debug\Canculator.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Canculator\Canculator\obj\Debug\Canculator.pdb

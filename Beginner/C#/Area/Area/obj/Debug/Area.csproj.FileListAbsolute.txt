@@ -1,0 +1,10 @@
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\bin\Debug\Area.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\bin\Debug\Area.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Area\Area\obj\Debug\Area.pdb

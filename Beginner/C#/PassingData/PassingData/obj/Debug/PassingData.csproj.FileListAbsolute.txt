@@ -1,0 +1,10 @@
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\bin\Debug\PassingData.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\bin\Debug\PassingData.exe
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\bin\Debug\PassingData.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.exe
+C:\Users\Sotonte Bob-manuel\source\repos\PassingData\PassingData\obj\Debug\PassingData.pdb

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modern Art Museums</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="item1">Barnes Museum</string>
+    <string name="item2">Tate Modern</string>
+    <string name="item3">Van Gogh Museum</string>
+</resources>

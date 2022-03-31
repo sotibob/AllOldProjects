@@ -1,0 +1,13 @@
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.exe
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.deps.json
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.runtimeconfig.json
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.runtimeconfig.dev.json
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.dll
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.AssemblyInfoInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.AssemblyInfo.cs
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.dll
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.genruntimeconfig.cache

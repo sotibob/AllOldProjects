@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Famous Athlete</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtName">Cristiano Ronaldo</string>
+    <string name="imgDescription">Cristiano Image</string>
+    <string name="txtAbout">Cristiano Ronaldo is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team.</string>
+    <string name="txtDOB">Date of Birth:  5th of February, 1985.</string>
+    <string name="txtHometown">Hometown:  Funchal, Madeira, Portugal.</string>
+    <string name="txtStats">Stats:</string>
+    <string name="txtGoals">770 goals for Club and Country</string>
+    <string name="txtAwards">5x Balon d\'Or Winner, 4x European Golden Boot Winner, 5x UEFA Champions League Winner, 7x League Winner, 1x UEFA European Championship Winner, and 1x UEFA Nations League Winner</string>
+    <string name="txtHeight">Height: 6\'2 (187cm)</string>
+</resources>

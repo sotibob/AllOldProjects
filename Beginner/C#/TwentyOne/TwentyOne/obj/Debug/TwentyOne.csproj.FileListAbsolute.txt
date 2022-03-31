@@ -1,0 +1,10 @@
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Sotonte Bob-manuel\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Ticket</string>
+    <string name="txtTicket">Ticket Image</string>
+    <string name="txtSeats">Seats Image</string>
+    <string name="hintTickets">Enter amount of tickets</string>
+    <string name="titleTicket">Ticket</string>
+    <string name="txtRow">Enter a row alphabet</string>
+    <string name="txtSeatNo">Enter a seat number</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="btnCalc">Calculate Price</string>
+</resources>

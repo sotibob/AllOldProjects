@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Game Twenty One</string>
+    <string name="txtTitle">Game of 21</string>
+    <string name="btnNext">Next</string>
+    <string name="txtHint">Enter a username</string>
+    <string name="imgDescription">Die Image</string>
+    <string name="btnRoll">Roll</string>
+    <string name="btnBack">Back</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnReplay">Play Again</string>
+    <string name="txtRules">Game of 21 Rules</string>
+    <string name="no1">You play with a dice to roll a total of 21 for a win.</string>
+    <string name="no2">If you hit a total of 9, 17, or go above 21; you lose.</string>
+    <string name="no3">If your total equals or crosses 15, you only roll with a die from then on.</string>
+    <string name="txtCongrats">Congratulations!</string>
+    <string name="txtLater">Try Again Later!</string>
+    <string name="txt21">You rolled a total of 21 to win the game.</string>
+    <string name="txtReplay">Do you want to keep playing?</string>
+</resources>

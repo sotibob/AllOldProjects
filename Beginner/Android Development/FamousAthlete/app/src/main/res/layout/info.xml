@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtDOB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:layout_marginLeft="96dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginBottom="1dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtDOB"
+        android:textSize="36dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtHometown"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtHometown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginBottom="3dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtHometown"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtStats"
+        app:layout_constraintStart_toStartOf="@+id/txtDOB"
+        app:layout_constraintTop_toBottomOf="@+id/txtDOB" />
+
+    <TextView
+        android:id="@+id/txtStats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtStats"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtHeight"
+        app:layout_constraintStart_toStartOf="@+id/txtHometown"
+        app:layout_constraintTop_toBottomOf="@+id/txtHometown" />
+
+    <TextView
+        android:id="@+id/txtGoals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="136dp"
+        android:layout_marginLeft="136dp"
+        android:layout_marginBottom="1dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtGoals"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtAwards"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtHeight" />
+
+    <TextView
+        android:id="@+id/txtAwards"
+        android:layout_width="1038dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginBottom="105dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtAwards"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/txtGoals"
+        app:layout_constraintTop_toBottomOf="@+id/txtGoals" />
+
+    <TextView
+        android:id="@+id/txtHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginBottom="3dp"
+        android:gravity="fill_horizontal"
+        android:padding="20dp"
+        android:text="@string/txtHeight"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtGoals"
+        app:layout_constraintStart_toStartOf="@+id/txtGoals"
+        app:layout_constraintTop_toBottomOf="@+id/txtStats" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
